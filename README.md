@@ -33,5 +33,3 @@ Bienvenido a mi perfil de GitHub. Soy **Data Engineer** apasionada por los datos
 - [![Correo](https://img.shields.io/badge/Correo-lara972010%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lara972010@gmail.com)
 
 ---
-
-¡Espero que te guste! Si necesitas alguna modificación o prefieres más detalles, avísame. 😊
